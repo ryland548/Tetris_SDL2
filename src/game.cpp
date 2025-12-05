@@ -175,9 +175,6 @@ void Game::render() {
     scoreText.render(renderer, score);
     lineLabel.render(renderer);
     lineText.render(renderer, lineTextCount);
-    if (grid.gameOver) {
-        grid.stopGame();
-    }
 }
 
 void Game::input() {
