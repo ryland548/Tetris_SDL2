@@ -3,7 +3,6 @@
 <br>
 <image src = "https://github.com/ryland548/Tetris_SDL2/blob/main/screenshot.png">
 <h2>Controls</h2>
-
 <p>A - Move Tetris Piece <bold>Left</bold></p>
 <p>D - Move Tetris Piece <bold>Right</bold></p>
 <p>R - Rotate Tetris Piece </p>
@@ -11,5 +10,4 @@
 <br>
 <h2>Dependencies</h2>
 <code><bold>SDL2</bold>, <bold>SDL2 ttf</bold>, <bold>SDL2 mixer</bold> and <bold>SDL2 image</bold></code>
-
-
+<p>The Score is Calculated based on how high the line was Cleared.</p>
