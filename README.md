@@ -10,6 +10,6 @@
 <p>Space - Hard Drop</p>
 <br><br>
 <h2>Dependencies</h2>
-<p><bold style="color: red;">SDL2</bold>, <bold style="color: red;">SDL2 ttf</bold>, <bold style="color: red;">SDL2 mixer</bold> and <bold style="color: red;">SDL2 image</bold></p>
+<code><bold>SDL2</bold>, <bold>SDL2 ttf</bold>, <bold>SDL2 mixer</bold> and <bold>SDL2 image</bold></code>
 
 
