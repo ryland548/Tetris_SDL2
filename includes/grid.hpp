@@ -51,5 +51,4 @@ class Grid {
     void renderNextBlockGrid(SDL_Renderer* renderer);
     bool checkRow(SDL_Renderer* renderer, int &lineScore, int &score);
     bool rotateShape(SDL_Renderer* renderer);
-    void stopGame();
 };
