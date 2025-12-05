@@ -10,4 +10,6 @@
 <br>
 <h2>Dependencies</h2>
 <code><bold>SDL2</bold>, <bold>SDL2 ttf</bold>, <bold>SDL2 mixer</bold> and <bold>SDL2 image</bold></code>
-<p>The Score is Calculated based on how high the line was Cleared.</p>
+<br>
+<h2>Game Info</h2>
+<p>The Score is calculated based on how high the line was cleared.</p>
