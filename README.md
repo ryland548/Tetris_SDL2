@@ -3,7 +3,10 @@
 <br><br>
 <image src = "https://github.com/ryland548/Tetris_SDL2/blob/main/screenshot.png">
 <h2>Controls</h2>
-<p>A - Move Tetris Piece <bold>Left</bold></p>
-<p>D - Move Tetris Piece <bold>Right</bold></p>
-<p>R - Rotate Tetris Piece </p>
-<p>Space - Hard Drop</p>
+<code>
+  <p>A - Move Tetris Piece <bold>Left</bold></p>
+  <p>D - Move Tetris Piece <bold>Right</bold></p>
+  <p>R - Rotate Tetris Piece </p>
+  <p>Space - Hard Drop</p>
+</code>
+
