@@ -545,7 +545,3 @@ bool Grid::rotateShape(SDL_Renderer* renderer) {
     }
     return true;
 }
-
-void Grid::stopGame() {
-
-}
